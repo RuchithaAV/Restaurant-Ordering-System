@@ -28,10 +28,3 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-
-### Java Compiled Class Files ###
-*.class
-
-### MS Office Temporary Files ###
-~$*.docx
-*.tmp
